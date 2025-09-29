@@ -4,11 +4,6 @@ This React + Vite app displays upcoming Premier League fixtures in a responsive 
 
 ---
 
-## 🌍 Live Demo
-👉 [Click here to view the app live](https://amalick8.github.io/Premier-League-Community-Board/)  
-
----
-
 ## 🎯 Features
 - [x] Unique theme (Premier League fixtures)
 - [x] Header/title describing the theme
