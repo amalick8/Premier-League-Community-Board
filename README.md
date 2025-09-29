@@ -1,24 +1,28 @@
 # Premier League Fixtures Board ⚽️
 
-This React + Vite app displays upcoming Premier League fixtures in a responsive card grid. Each card shows the home team, away team, date, time, stadium, and team logos.  
+A React + Vite web app that displays upcoming Premier League fixtures in a clean, responsive card grid.  
 
 ---
 
-## 🎯 Features
-- [x] Unique theme (Premier League fixtures)
-- [x] Header/title describing the theme
-- [x] 12 unique matches displayed
-- [x] Responsive card grid layout
-- [x] Each card shows info: teams, date, time, stadium, logos
-- [x] Hover effects on cards
+## 🌍 Live Demo
+👉 [Click here to view the live app](https://amalick8.github.io/Premier-League-Community-Board/)  
 
 ---
 
 ## 📸 Preview
-### Walkthrough  
 ![App Walkthrough](walkthrough.gif)  
 
 *(The GIF above shows the app running and resizing responsively.)*  
+
+---
+
+## 🎯 Features
+- [x] Unique theme (Premier League fixtures board)  
+- [x] Header/title describing the theme  
+- [x] 12 unique matches displayed  
+- [x] Responsive card grid layout  
+- [x] Each card includes: teams, logos, date, time, and stadium  
+- [x] Hover effects on cards  
 
 ---
 
