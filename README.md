@@ -11,7 +11,6 @@ This React + Vite app displays upcoming Premier League fixtures in a responsive 
 - [x] Responsive card grid layout
 - [x] Each card shows info: teams, date, time, stadium, logos
 - [x] Hover effects on cards
-- [ ] (Optional) Links/buttons on each card
 
 ---
 
